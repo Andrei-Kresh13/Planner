@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Planer</string>
+    <string name="action_settings">Настройки</string>
+    <string name="enter_task">Задача</string>
+    <string name="enter_title">Введите название</string>
+    <string name="enter_description">Введите описание</string>
+    <string name="delete">Вы уверены, что хотите удалить?</string>
+    <string name="question">Вы уверены?</string>
+    <string name="no">Нет</string>
+    <string name="yes">Да</string>
+    <string name="title_text">Редактировать задачу</string>
+    <string name="update_text">Обновить</string>
+</resources>
